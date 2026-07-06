@@ -2,7 +2,7 @@
 
 This script automatically fetches your daily accepted submissions from LeetCode, Codeforces, and AtCoder, and logs them directly into your designated tab on the Master Google Sheet.
 
-It tracks the problems you've solved, their difficulties, topics, and automatically generates clickable submission links, avoiding any row duplication.
+It tracks the problems you've solved, their difficulties, topics, and automatically generates clickable submission links, avoiding any row duplications.
 
 ## Expected Format
 ![CP Tracker Format](screenshot.png)
